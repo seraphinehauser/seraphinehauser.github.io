@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A weather system perspective on winter–spring rainfall variability in southeastern Australia during El Niño"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2020-04-28
+venue: 'Quarterly Journal of the Royal Meteorological Society'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3808)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
