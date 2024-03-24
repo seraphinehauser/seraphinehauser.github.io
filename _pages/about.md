@@ -1,3 +1,5 @@
+![Editing a markdown file for a talk](/images/webpage.png)
+
 ---
 permalink: /
 title: "This is me"
