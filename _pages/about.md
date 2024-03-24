@@ -1,4 +1,4 @@
-![Editing a markdown file for a talk](/images/webpage.png)
+![Editing a markdown file for a talk](/images/Webpage.png)
 
 ---
 permalink: /
