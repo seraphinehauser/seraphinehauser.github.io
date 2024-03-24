@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is me"
+title: "W E L C O M E"
 author_profile: true
 redirect_from: 
   - /about/
