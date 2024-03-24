@@ -2,11 +2,10 @@
 title: "A weather system perspective on winter–spring rainfall variability in southeastern Australia during El Niño"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04-28
 venue: 'Quarterly Journal of the Royal Meteorological Society'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3808)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3808'
+citation: 'Hauser, S., Grams, C. M., Reeder, M. J., McGregor, S., Fink, A. H., & Quinting, J. F. (2020). A weather system perspective on winter–spring rainfall variability in southeastern Australia during El Niño. Quarterly Journal of the Royal Meteorological Society, 146(731), 2614–2633. https://doi.org/10.1002/qj.3808'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
