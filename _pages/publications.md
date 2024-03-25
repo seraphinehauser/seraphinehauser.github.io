@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## $${\color{green}In Preparation}$$
+## In Preparation
 * Hauser, S., Teubler, F., Steinfeld, D., Grams, C. M., Riemer, M., Martius, O.: Dynamics of different blocking types in the Northern Hemisphere from a potential vorticity perspective.
 * Hauser, S., Grams, C. M., Teubler, F., Riemer, M.: A weather regime perspective on the role of dry and moist processes in the formation and maintenance of blocked patterns in the North Atlantic-European region.
 
