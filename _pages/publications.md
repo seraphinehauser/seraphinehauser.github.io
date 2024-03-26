@@ -6,16 +6,19 @@ author_profile: true
 ---
 
 ## In Preparation
+---
 * **Hauser, S.**, Teubler, F., Steinfeld, D., Grams, C. M., Riemer, M., Martius, O.: Dynamics of different blocking types in the Northern Hemisphere from a potential vorticity perspective.
 * **Hauser, S.**, Grams, C. M., Teubler, F., Riemer, M.: A weather regime perspective on the role of dry and moist processes in the formation and maintenance of blocked patterns in the North Atlantic-European region.
 
 
 
 ## In Review
+---
 * **Hauser, S.**, Teubler, F., Riemer, M., Knippertz, P., and Grams, C. M.: Life cycle dynamics of Greenland blocking from a potential vorticity perspective, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-2945.
 
 
 ## Articles (peer-reviewed)
+---
 
 * **Hauser, S.**, Teubler, F., Riemer, M., Knippertz, P., and Grams, C. M. (2023): Towards a holistic understanding of blocked regime dynamics through a combination of complementary diagnostic perspectives, Weather Clim. Dynam., 4, 399–425, https://doi.org/10.5194/wcd-4-399-2023.
 
