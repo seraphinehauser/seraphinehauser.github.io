@@ -7,19 +7,20 @@ author_profile: true
 
 ## In Preparation
 ---
-* **Hauser, S.**, Teubler, F., Steinfeld, D., Grams, C. M., Riemer, M., Martius, O.: Dynamics of different blocking types in the Northern Hemisphere from a potential vorticity perspective.
-* **Hauser, S.**, Grams, C. M., Teubler, F., Riemer, M.: A weather regime perspective on the role of dry and moist processes in the formation and maintenance of blocked patterns in the North Atlantic-European region.
+* **Hauser, S.**, Teubler, F., Steinfeld, D., Grams, C. M., Riemer, M., and Martius, O.: Dynamics of different blocking types in the Northern Hemisphere from a potential vorticity perspective.
+* **Hauser, S.**, Grams, C. M., Teubler, F., and Riemer, M.: A weather regime perspective on the role of dry and moist processes in the formation and maintenance of blocked patterns in the North Atlantic-European region.
 
 
 
 ## In Review
 ---
-* **Hauser, S.**, Teubler, F., Riemer, M., Knippertz, P., and Grams, C. M.: Life cycle dynamics of Greenland blocking from a potential vorticity perspective, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-2945.
+* **Hauser, S.**, Cavallo, S. M., Magnusson, L., Martin, J. E., and Parsons, D. B.: Exceptionally poor and good medium-range forecasts of the large-scale circulation over Europe in ERA5 reforecasts. Submitted to Quarterly Journal of the Royal Meteorological Society. 
 
 
 ## Articles (peer-reviewed)
 ---
-
+* **Hauser, S.**, Teubler, F., Riemer, M., Knippertz, P., and Grams, C. M. (2024): Life cycle dynamics of Greenland blocking from a potential vorticity perspective, Weather Clim. Dynam., 5, 633–658, https://doi.org/10.5194/wcd-5-633-2024.
+  
 * **Hauser, S.**, Teubler, F., Riemer, M., Knippertz, P., and Grams, C. M. (2023): Towards a holistic understanding of blocked regime dynamics through a combination of complementary diagnostic perspectives, Weather Clim. Dynam., 4, 399–425, https://doi.org/10.5194/wcd-4-399-2023.
 
 * Teubler, F., Riemer, M., Polster, C., Grams, C. M., **Hauser, S.**, and Wirth, V. (2023): Similarity and variability of blocked weather-regime dynamics in the Atlantic–European region, Weather Clim. Dynam., 4, 265–285, https://doi.org/10.5194/wcd-4-265-2023.
